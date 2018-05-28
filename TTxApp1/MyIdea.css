@@ -1,0 +1,36 @@
+﻿body {
+    background-size: cover;
+    background: url('/Images/railroad.jpg') no-repeat center center fixed;
+}
+
+
+#GridView1 {
+    display: block;
+    margin-top: 2%;
+    border: 5px solid red;
+    border-radius: 5px;
+    font-size: 32px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif position: fixed;
+    top: -1px;
+    padding-bottom: 100px;
+    background-color: orangered;
+}
+#Logout {
+    position: absolute;
+    margin-left: 85%;
+    width: 10%;
+    margin-top: -5%;
+    border-style: dashed;
+    border-color: white;
+}
+
+#ImageButton1 {
+    display: block;
+    padding-top: 1%;
+    margin: 0 auto;
+    width: 300px;
+}

@@ -1,0 +1,81 @@
+﻿body {
+    background-size: cover;
+    background: url('/Images/railroad.jpg') no-repeat center center fixed;
+}
+
+.stars {
+    margin-top: 03%;
+    background-color: transparent;
+    padding-left:50%;
+
+}
+#Logout {
+    position: absolute;
+    margin-left: 85%;
+    width: 10%;
+    margin-top: -5%;
+}
+
+#EmptyStar1:hover {
+    background: url('/Images/railroad.jpg');
+    display:inline;
+}
+#EmptyStar2:hover {
+    background: url('/Images/railroad.jpg');
+    display: inline;
+}
+#EmptyStar5:hover {
+    background: url('/Images/railroad.jpg');
+    display: inline;
+}
+#EmptyStar3:hover {
+    background: url('/Images/railroad.jpg');
+    display: inline;
+}
+#EmptyStar4:hover {
+    background: url('/Images/railroad.jpg');
+    display: inline;
+}
+
+.auto-style5 {
+    
+    margin-bottom: 10%;
+    border: 3px inset red;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Title1 {
+    height: 100px;
+    color: white;
+    margin-left: 20%;
+    padding-bottom:11%;
+    font-size: 40px;
+    border: 3px inset red;
+    background-color: orangered;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#Idea1 {
+    height: 100px;
+    color: white;
+    width: 300px;
+    padding-bottom: 11%;
+    font-size: 40px;
+    margin-left: 20%;
+    border: 3px inset red;
+    background-color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#ImageButton1 {
+    display: block;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    margin: 0 auto;
+    width: 250px;
+}
